@@ -1,0 +1,10 @@
+
+Algoritham to create a program to move files with their specific folders
+
+Steps-
+	1. Create two folders, one with 4 files with different extension and 1 sh file in it.
+	2. Write a program in sh file and segregate the extension of the files.
+	3. Create folders with the extension name in second folder.
+	4. move all the 5 files to the newly created folders respectively.
+
+
